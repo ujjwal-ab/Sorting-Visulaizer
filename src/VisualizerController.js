@@ -19,7 +19,7 @@ size:'15',
 barColor:'Blue',
 pointerColor:'Red',
 sortedColor:'Green',
-message:'Feeling lazy ? its OK , just click Sort ! '
+message:'Click here to start sorting ! '
 }
 this.onSelectingSortingAlgorithm=this.onSelectingSortingAlgorithm.bind(this);
 this.onSelectingSpeed=this.onSelectingSpeed.bind(this);
